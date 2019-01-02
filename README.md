@@ -4,7 +4,6 @@ Web RealCount
   Outstanding
     - Android App
       + Additional info dan pengecekan akurasi gps saat verifikasi lokasi tps
-    
     - Web Dashboard
       + Penambahan desain page sesuai dengan mockup
       + Koneksi dengan database
