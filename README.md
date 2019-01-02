@@ -11,6 +11,8 @@ Web RealCount
       
   - Integrasi
       + Trial Full
+      + Meningkatkan availability
+      + Meningkatkan speed
 
 PI
   Outstanding
