@@ -7,25 +7,25 @@ Web RealCount
       
   - Web Dashboard
       + Penambahan desain page sesuai dengan mockup   __(DONE)__
-      + Koneksi Web dengan database                   __(On Progress)__**    --> Kamis 22 Jan 2019
+      + Koneksi Web dengan database                   _(On Progress)_**    --> Kamis 22 Jan 2019
       
   - Integrasi
-      + Trial Full                                    (Outstanding)    --> Setelah web terconnect dgn database
-      + Meningkatkan availability                     (Outstanding)    --> Jumat 25 Jan 2019
-      + Meningkatkan speed                            (Outstanding)    --> Jumat 25 Jan 2019
+      + Trial Full                                    _(Outstanding)_**    --> Setelah web terconnect dgn database
+      + Meningkatkan availability                     _(Outstanding)_**    --> Jumat 25 Jan 2019
+      + Meningkatkan speed                            _(Outstanding)_**    --> Jumat 25 Jan 2019
 
 PI
   Outstanding
   - Web Penimbangan
-      + Proses penimbangan/ sequence penimbangan      (DONE)
-      + Trial dengan IO                               (DONE)
-      + Trial Full IO, Serial dan Pengiriman ke database  (DONE)
+      + Proses penimbangan/ sequence penimbangan      __(DONE)__
+      + Trial dengan IO                               __(DONE)__
+      + Trial Full IO, Serial dan Pengiriman ke database  __(DONE)__
       
   - Web Central
-      + Sistem load ke proses/ status                 (DONE)
-      + Sistem loop ke next status                    (DONE)
-      + Sistem finish kirim data ke server pusat      (Outstanding)   --> Menunggu info dari Aldrik
+      + Sistem load ke proses/ status                 __(DONE)__
+      + Sistem loop ke next status                    __(DONE)__
+      + Sistem finish kirim data ke server pusat      _(Outstanding)_**   --> Menunggu info dari Aldrik
 
   - Problems
-      + Bypass Login                                  (Outstanding)
-      + Bypass Sleep Layar                            (Outstanding)
+      + Bypass Login                                  _(Outstanding)_**
+      + Bypass Sleep Layar                            _(Outstanding)_**
