@@ -7,12 +7,12 @@ Web RealCount
       
   - Web Dashboard
       + Penambahan desain page sesuai dengan mockup   __(DONE)__
-      + Koneksi Web dengan database                   _(On Progress)_**    --> Kamis 22 Jan 2019
+      + Koneksi Web dengan database                   **_(On Progress)_**    --> Kamis 22 Jan 2019
       
   - Integrasi
-      + Trial Full                                    _(Outstanding)_**    --> Setelah web terconnect dgn database
-      + Meningkatkan availability                     _(Outstanding)_**    --> Jumat 25 Jan 2019
-      + Meningkatkan speed                            _(Outstanding)_**    --> Jumat 25 Jan 2019
+      + Trial Full                                    **_(Outstanding)_**    --> Setelah web terconnect dgn database
+      + Meningkatkan availability                     **_(Outstanding)_**    --> Jumat 25 Jan 2019
+      + Meningkatkan speed                            **_(Outstanding)_**    --> Jumat 25 Jan 2019
 
 PI
   Outstanding
@@ -24,8 +24,8 @@ PI
   - Web Central
       + Sistem load ke proses/ status                 __(DONE)__
       + Sistem loop ke next status                    __(DONE)__
-      + Sistem finish kirim data ke server pusat      _(Outstanding)_**   --> Menunggu info dari Aldrik
+      + Sistem finish kirim data ke server pusat      **_(Outstanding)_**   --> Menunggu info dari Aldrik
 
   - Problems
-      + Bypass Login                                  _(Outstanding)_**
-      + Bypass Sleep Layar                            _(Outstanding)_**
+      + Bypass Login                                  **_(Outstanding)_**
+      + Bypass Sleep Layar                            **_(Outstanding)_**
