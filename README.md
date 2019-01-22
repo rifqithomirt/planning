@@ -3,11 +3,11 @@
 Web RealCount
   Outstanding
   - Android App
-      + Additional info dan pengecekan akurasi gps saat verifikasi lokasi tps  (DONE)
+      + Additional info dan pengecekan akurasi gps saat verifikasi lokasi tps  __(DONE)__
       
   - Web Dashboard
-      + Penambahan desain page sesuai dengan mockup   (DONE)
-      + Koneksi Web dengan database                   (On Progress)    --> Kamis 22 Jan 2019
+      + Penambahan desain page sesuai dengan mockup   __(DONE)__
+      + Koneksi Web dengan database                   __(On Progress)__**    --> Kamis 22 Jan 2019
       
   - Integrasi
       + Trial Full                                    (Outstanding)    --> Setelah web terconnect dgn database
